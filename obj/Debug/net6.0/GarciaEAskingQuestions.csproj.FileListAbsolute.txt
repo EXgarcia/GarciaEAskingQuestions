@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\bin\Debug\net6.0\GarciaEAskingQuestions.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\bin\Debug\net6.0\GarciaEAskingQuestions.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\bin\Debug\net6.0\GarciaEAskingQuestions.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\bin\Debug\net6.0\GarciaEAskingQuestions.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\bin\Debug\net6.0\GarciaEAskingQuestions.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\refint\GarciaEAskingQuestions.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\GarciaEAskingQuestions.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEAskingQuestions\obj\Debug\net6.0\ref\GarciaEAskingQuestions.dll
