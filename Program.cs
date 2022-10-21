@@ -11,6 +11,7 @@ string answer = "";
 string stop ="";
 int i = 0;
 bool input1 = true;
+bool input2 = true;
 
 while(stop != "end")
 {
@@ -21,11 +22,14 @@ while(stop != "end")
     {Console.WriteLine("I doubt that is your name.");
 
     }else{
-        Console.WriteLine($"Nice to meet you {reply}, what time did you wake up? ");
+        Console.WriteLine($"Nice to meet you {reply}, what time did you wake up? Please enter as millitary time -0000-. ");
         reply2 = Console.ReadLine();
-
-        Console.WriteLine($"Did you really wake up at {reply2}? Thats so early! ");
-      
+        input2 =Int32.TryParse(reply2, out i);
+       if(input2 == true)
+        {Console.WriteLine($"Did you really wake up at {reply2}? Thats so early! ");
+        }else{
+            Console.WriteLine("Please enter as format provided.");
+        }
     }
     Console.WriteLine("Type end to stop or press enter to start over.");
     answer = Console.ReadLine().ToLower();
